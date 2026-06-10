@@ -1,6 +1,6 @@
 For my fellow Scrapers Out there here's a step by step guide on how u would appraoch mlbb login api. 
 
-First sTep - >  is u have to go to official sub domain of mlbb login - > https://mtacc.mobilelegends.com
+First sTep - >  is u have to go to official sub domain of mlbb login - > [https://mtacc.mobilelegends.com](https://mtacc.mobilelegends.com/v2.1/inapp/login-new)
 
 Second Step -> Scrape the Header and payload parameter, once you got that it will generate cn31 captcha token
 
